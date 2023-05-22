@@ -6,12 +6,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.0-SNAPSHOT</version>
-		<packaging>war</packaging> 
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kdev.hrm</groupId>
 	<artifactId>HrManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging> 
 	<name>HrManagement</name>
 	<description>Simple project for Spring Boot Rest Crud Operation</description>
 	<properties>
