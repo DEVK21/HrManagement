@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.kdev.hrm</groupId>
 	<artifactId>HrManagement</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HrManagement</name>
 	<description>Simple project for Spring Boot Rest Crud Operation</description>
